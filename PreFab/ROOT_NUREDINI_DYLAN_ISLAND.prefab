@@ -10,11 +10,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1211379503169642255, guid: 567ddfcdf1dd7ab4aaa88d8aa0d407f8, type: 3}
       propertyPath: m_VersionIndex
-      value: 9576
+      value: 9588
       objectReference: {fileID: 0}
     - target: {fileID: 1918981130635651542, guid: 567ddfcdf1dd7ab4aaa88d8aa0d407f8, type: 3}
       propertyPath: m_Name
-      value: Ile lambda mdr Variant
+      value: ROOT_NUREDINI_DYLAN_ISLAND
       objectReference: {fileID: 0}
     - target: {fileID: 7995503861124666319, guid: 567ddfcdf1dd7ab4aaa88d8aa0d407f8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -34,15 +34,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7995503861124666319, guid: 567ddfcdf1dd7ab4aaa88d8aa0d407f8, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7995503861124666319, guid: 567ddfcdf1dd7ab4aaa88d8aa0d407f8, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7995503861124666319, guid: 567ddfcdf1dd7ab4aaa88d8aa0d407f8, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7995503861124666319, guid: 567ddfcdf1dd7ab4aaa88d8aa0d407f8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
