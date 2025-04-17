@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7150832961010085854}
   m_Layer: 0
-  m_Name: NUREDINI_DYLAN
+  m_Name: ROOT_NUREDINI_DYLAN
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
