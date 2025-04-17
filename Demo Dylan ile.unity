@@ -377,39 +377,13 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
---- !u!1 &1553032087 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 9157040561369670211, guid: f00b2cd050e72b34da56755d57b760d9, type: 3}
-  m_PrefabInstance: {fileID: 1480383855785195641}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &1553032088 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 6730071574931443942, guid: f00b2cd050e72b34da56755d57b760d9, type: 3}
-  m_PrefabInstance: {fileID: 1480383855785195641}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1553032089
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1553032087}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a4f8460c347dd924b9644b597bff8166, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_whatToRotate: {fileID: 1553032088}
-  m_globalSpeedInAngle: 720
-  m_rotateAxis: {x: 0, y: 0, z: 0}
-  m_space: 1
---- !u!43 &1917754331
+--- !u!43 &808869537
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-47422
+  m_Name: pb_Mesh-47422(Clone)
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
@@ -629,11 +603,11 @@ PrefabInstance:
     - target: {fileID: 109542952887741600, guid: f00b2cd050e72b34da56755d57b760d9, type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 1917754331}
+      objectReference: {fileID: 808869537}
     - target: {fileID: 3209677427357319833, guid: f00b2cd050e72b34da56755d57b760d9, type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 1917754331}
+      objectReference: {fileID: 808869537}
     - target: {fileID: 3212251653985145122, guid: f00b2cd050e72b34da56755d57b760d9, type: 3}
       propertyPath: m_Name
       value: NUREDINI_DYLAN
@@ -641,10 +615,10 @@ PrefabInstance:
     - target: {fileID: 4887930180311482895, guid: f00b2cd050e72b34da56755d57b760d9, type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 1917754331}
+      objectReference: {fileID: 808869537}
     - target: {fileID: 4887930180311482895, guid: f00b2cd050e72b34da56755d57b760d9, type: 3}
       propertyPath: m_VersionIndex
-      value: 9606
+      value: 9615
       objectReference: {fileID: 0}
     - target: {fileID: 7150832961010085854, guid: f00b2cd050e72b34da56755d57b760d9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -689,10 +663,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 9157040561369670211, guid: f00b2cd050e72b34da56755d57b760d9, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1553032089}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f00b2cd050e72b34da56755d57b760d9, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
